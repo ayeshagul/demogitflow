@@ -18,3 +18,10 @@ Demo gitflow
 [x]  rebase
 [ ]  branching
 [ ]  marging
+
+
+... 
+status
+add
+commit
+...
