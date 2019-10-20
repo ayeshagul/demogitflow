@@ -11,6 +11,6 @@ Demo gitflow
 - ghi
 
 
-1.status
-2.add .
-3.commit
+1. status
+2. add .
+3. commit
