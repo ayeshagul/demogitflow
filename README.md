@@ -14,3 +14,7 @@ Demo gitflow
 1. status
 2. add .
 3. commit
+
+[x] rebase
+[ ] branching
+[ ] marging
