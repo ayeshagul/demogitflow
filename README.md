@@ -15,6 +15,6 @@ Demo gitflow
 2. add .
 3. commit
 
-[x] rebase
-[ ] branching
-[ ] marging
+[x]  rebase
+[ ]  branching
+[ ]  marging
