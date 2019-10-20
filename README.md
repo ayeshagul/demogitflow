@@ -9,3 +9,8 @@ Demo gitflow
 - abc
 - def
 - ghi
+
+
+1.status
+2.add .
+3.commit
